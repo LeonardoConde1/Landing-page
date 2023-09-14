@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Landing-page/static/css/main.0c02b05f.css",
+    "main.js": "/Landing-page/static/js/main.66f302fd.js",
+    "static/media/pngwing11.png": "/Landing-page/static/media/pngwing11.3549d9e451d7abb96934.png",
+    "static/media/pngwing5.png": "/Landing-page/static/media/pngwing5.279f569743519f328374.png",
+    "static/media/pngwing3.png": "/Landing-page/static/media/pngwing3.5dbcfbcdc0ea6919c1f1.png",
+    "static/media/pngwing6.png": "/Landing-page/static/media/pngwing6.9fe4cc0c4f159317f309.png",
+    "static/media/pngwing9.png": "/Landing-page/static/media/pngwing9.76536eb2b86398277df3.png",
+    "static/media/pngwing4.png": "/Landing-page/static/media/pngwing4.457fee1e62911df9d399.png",
+    "static/media/pngwing1.png": "/Landing-page/static/media/pngwing1.9f33c557b92e4e2e1cc8.png",
+    "static/media/imagen.png": "/Landing-page/static/media/imagen.770bca27b9f84a26bdc5.png",
+    "static/media/pngwing7.png": "/Landing-page/static/media/pngwing7.20adfb35ae6a6e5817bf.png",
+    "static/media/pngwing2.png": "/Landing-page/static/media/pngwing2.a70125410a4f59d22337.png",
+    "static/media/pngwing8.png": "/Landing-page/static/media/pngwing8.772c1187fec10647bbc9.png",
+    "index.html": "/Landing-page/index.html",
+    "main.0c02b05f.css.map": "/Landing-page/static/css/main.0c02b05f.css.map",
+    "main.66f302fd.js.map": "/Landing-page/static/js/main.66f302fd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c02b05f.css",
+    "static/js/main.66f302fd.js"
+  ]
+}
